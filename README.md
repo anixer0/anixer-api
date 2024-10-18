@@ -8,7 +8,7 @@ MADE API BETTER  AND FASTER FOR EVERYONE
 
 > THANKS TO MY LORD(GOD) JESUS  CHRIST FOR GIVING ME WISDOM 
 
-## Deploy To Cloudflare (AB Way)
+## Deploy To Cloudflare (ANIXER Way)
 
 - Install Wrangler CLI : https://developers.cloudflare.com/workers/wrangler/install-and-update/
 
