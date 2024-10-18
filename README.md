@@ -1,7 +1,7 @@
-# AB-ANIME-STREAMER-API-V2
+# ANIXER-API-V2
 MADE API BETTER  AND FASTER FOR EVERYONE
 
-# AB-STREAMER-API
+# ANIXER-API
 
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/XerAnime/anixer-api)
